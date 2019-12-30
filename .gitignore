@@ -1,0 +1,15 @@
+#Big data files
+data/aclImdb
+data/counter-fitted-vectors.txt
+data/glove
+data/lm_scores
+data/snli
+
+# LM
+windweller-l2w
+
+#Compiled files
+*.pyc
+
+# Swap files
+*.sw*
